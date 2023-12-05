@@ -1,0 +1,15 @@
+/Users/truitt/Projects/Wages.cs/Wages.cs/obj/Debug/net7.0/Wages.cs.csproj.AssemblyReference.cache
+/Users/truitt/Projects/Wages.cs/Wages.cs/obj/Debug/net7.0/Wages.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truitt/Projects/Wages.cs/Wages.cs/obj/Debug/net7.0/Wages.cs.AssemblyInfoInputs.cache
+/Users/truitt/Projects/Wages.cs/Wages.cs/obj/Debug/net7.0/Wages.cs.AssemblyInfo.cs
+/Users/truitt/Projects/Wages.cs/Wages.cs/obj/Debug/net7.0/Wages.cs.csproj.CoreCompileInputs.cache
+/Users/truitt/Projects/Wages.cs/Wages.cs/bin/Debug/net7.0/Wages.cs
+/Users/truitt/Projects/Wages.cs/Wages.cs/bin/Debug/net7.0/Wages.cs.deps.json
+/Users/truitt/Projects/Wages.cs/Wages.cs/bin/Debug/net7.0/Wages.cs.runtimeconfig.json
+/Users/truitt/Projects/Wages.cs/Wages.cs/bin/Debug/net7.0/Wages.cs.dll
+/Users/truitt/Projects/Wages.cs/Wages.cs/bin/Debug/net7.0/Wages.cs.pdb
+/Users/truitt/Projects/Wages.cs/Wages.cs/obj/Debug/net7.0/Wages.cs.dll
+/Users/truitt/Projects/Wages.cs/Wages.cs/obj/Debug/net7.0/refint/Wages.cs.dll
+/Users/truitt/Projects/Wages.cs/Wages.cs/obj/Debug/net7.0/Wages.cs.pdb
+/Users/truitt/Projects/Wages.cs/Wages.cs/obj/Debug/net7.0/Wages.cs.genruntimeconfig.cache
+/Users/truitt/Projects/Wages.cs/Wages.cs/obj/Debug/net7.0/ref/Wages.cs.dll
